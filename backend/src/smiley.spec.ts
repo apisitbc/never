@@ -1,4 +1,4 @@
-import { countSmileyFace } from "./smily";
+import { countSmileyFace } from "./smiley";
 
 describe('countSmileys', () => {
   test.each([
